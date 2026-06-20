@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ff-display {
+  font-family: 'Fraunces', serif;
+}
+
+body {
+  font-family: 'Source Sans 3', 'Segoe UI', sans-serif;
+}
